@@ -16,5 +16,7 @@ Data Structure:
 
 1. [Merge sorted array - E](https://leetcode.com/problems/merge-sorted-array/?envType=study-plan-v2&envId=top-interview-150): merge_sorted_array.py
 
-2. [Remove Element - E](https://leetcode.com/problems/remove-element/?envType=study-plan-v2&envId=top-interview-150): remove_element.py 
+2. [Remove Element - E](https://leetcode.com/problems/remove-element/?envType=study-plan-v2&envId=top-interview-150): remove_element.py
+
+3. [Remove Duplicates from Sorted Array - E](https://leetcode.com/problems/remove-duplicates-from-sorted-array/?envType=study-plan-v2&envId=top-interview-150): remove_duplicate_sorted_array.py
 
