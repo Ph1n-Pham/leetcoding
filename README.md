@@ -34,3 +34,5 @@ Data Structure:
 
 10. [Trapping Rain Water - H](https://leetcode.com/problems/trapping-rain-water/?envType=study-plan-v2&envId=top-interview-150): trapping_rain_water.py
 
+11. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/?envType=study-plan-v2&envId=top-interview-150): roman_to_integer.py
+
