@@ -30,5 +30,5 @@ Data Structure:
 
 8. [Best Time to Buy and Sell Stock II - M](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/?envType=study-plan-v2&envId=top-interview-150): best_time_to_buy_stock_2.py
 
-9. 
+9. [Jump Game - M](https://leetcode.com/problems/jump-game/?envType=study-plan-v2&envId=top-interview-150): jump_game.py
 
