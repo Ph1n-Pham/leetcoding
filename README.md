@@ -24,5 +24,7 @@ Data Structure:
 
 5. [Majority Element - E](https://leetcode.com/problems/majority-element/?envType=study-plan-v2&envId=top-interview-150): majority_element.py
 
-6. 
+6. [Rotate Array - M](https://leetcode.com/problems/rotate-array/description/?envType=study-plan-v2&envId=top-interview-150): rotate_array.py
+
+7. 
 
