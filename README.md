@@ -26,5 +26,7 @@ Data Structure:
 
 6. [Rotate Array - M](https://leetcode.com/problems/rotate-array/description/?envType=study-plan-v2&envId=top-interview-150): rotate_array.py
 
-7. 
+7. [Best Time to Buy and Sell Stock - E](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/?envType=study-plan-v2&envId=top-interview-150): best_time_to_buy_stock.py
+
+8. 
 
