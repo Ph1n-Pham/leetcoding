@@ -22,5 +22,7 @@ Data Structure:
 
 4. [Remove Duplicates from Sorted Array II - M](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/?envType=study-plan-v2&envId=top-interview-150): remove_duplicate_sorted_array_2.py
 
-5. 
+5. [Majority Element - E](https://leetcode.com/problems/majority-element/?envType=study-plan-v2&envId=top-interview-150): majority_element.py
+
+6. 
 
