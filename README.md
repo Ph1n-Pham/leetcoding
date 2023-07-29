@@ -3,8 +3,8 @@
 This repository contains my solution for Leetcode problems
 
 Each item is marked with a difficulty level. 
-E - easy 
-M - medium 
+E - easy, 
+M - medium,
 H - hard
 
 Written in python3. Thanks Chip Huyen (@chiphuyen) for the inspiration.
