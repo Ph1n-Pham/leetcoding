@@ -40,6 +40,8 @@ Data Structure:
 
 13. [Length of Last Word - E](https://leetcode.com/problems/length-of-last-word/?envType=study-plan-v2&envId=top-interview-150): length_last_word.py
 
+14. [Reverse Words in a String - M](https://leetcode.com/problems/reverse-words-in-a-string/description/?envType=study-plan-v2&envId=top-interview-150) reverse_words_in_string.py
+
 
 ### Two Pointers:
 
