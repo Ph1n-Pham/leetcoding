@@ -30,5 +30,7 @@ Data Structure:
 
 8. [Best Time to Buy and Sell Stock II - M](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/?envType=study-plan-v2&envId=top-interview-150): best_time_to_buy_stock_2.py
 
-9. [Jump Game - M](https://leetcode.com/problems/jump-game/?envType=study-plan-v2&envId=top-interview-150): jump_game.py
+9. [Jump Game - M](https://leetcode.com/problems/jump-game/?envType=study-plan-v2&envId=top-interview-150): jump_game.py (DP solution)
+
+10. [Trapping Rain Water - H](https://leetcode.com/problems/trapping-rain-water/?envType=study-plan-v2&envId=top-interview-150): trapping_rain_water.py
 
