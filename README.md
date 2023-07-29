@@ -40,9 +40,12 @@ Data Structure:
 
 13. [Length of Last Word - E](https://leetcode.com/problems/length-of-last-word/?envType=study-plan-v2&envId=top-interview-150): length_last_word.py
 
+
 ### Two Pointers:
 
-14. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/?envType=study-plan-v2&envId=top-interview-150): valid_palindrome.py
+1. [Valid Palindrome - E](https://leetcode.com/problems/valid-palindrome/?envType=study-plan-v2&envId=top-interview-150): valid_palindrome.py
 
-15. 
+2. [Is Subsequence - E](https://leetcode.com/problems/is-subsequence/?envType=study-plan-v2&envId=top-interview-150): is_subsequence.py
+
+### 
 
