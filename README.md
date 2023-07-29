@@ -49,5 +49,7 @@ Data Structure:
 
 2. [Is Subsequence - E](https://leetcode.com/problems/is-subsequence/?envType=study-plan-v2&envId=top-interview-150): is_subsequence.py
 
-### 
+### Sliding window:
+
+1. [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/): min_size_subarray_sum.py
 
