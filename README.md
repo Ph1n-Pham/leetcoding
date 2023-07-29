@@ -51,5 +51,7 @@ Data Structure:
 
 ### Sliding window:
 
-1. [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/): min_size_subarray_sum.py
+1. [Minimum Size Subarray Sum - M](https://leetcode.com/problems/minimum-size-subarray-sum/): min_size_subarray_sum.py
+
+2. [Longest Substring Without Repeating Characters - M](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=study-plan-v2&envId=top-interview-150): longest_substring_without_repeating_characters.py
 
