@@ -55,3 +55,7 @@ Data Structure:
 
 2. [Longest Substring Without Repeating Characters - M](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=study-plan-v2&envId=top-interview-150): longest_substring_without_repeating_characters.py
 
+### Matrix:
+
+1. [Valid Sudoku - M](https://leetcode.com/problems/valid-sudoku/): valid_sudoku.py ([my solution](https://leetcode.com/problems/valid-sudoku/solutions/3839277/python3-solution-beats-98-runtime-and-80-space/) beats 98% runtime and 80% space)
+
