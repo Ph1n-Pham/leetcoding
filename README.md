@@ -59,3 +59,5 @@ Data Structure:
 
 1. [Valid Sudoku - M](https://leetcode.com/problems/valid-sudoku/): valid_sudoku.py ([my solution](https://leetcode.com/problems/valid-sudoku/solutions/3839277/python3-solution-beats-98-runtime-and-80-space/) beats 98% runtime and 80% space)
 
+2. [Game of Life - M](https://leetcode.com/problems/game-of-life/): game_of_life.py 
+
