@@ -67,3 +67,5 @@ Data Structure:
 
 2. [Isomorphic String - E](https://leetcode.com/problems/isomorphic-strings/): isomorphic_string.py
 
+3. [Word Pattern - E](https://leetcode.com/problems/word-pattern/): word_pattern.py
+
