@@ -69,3 +69,5 @@ Data Structure:
 
 3. [Word Pattern - E](https://leetcode.com/problems/word-pattern/): word_pattern.py
 
+4. [Valid Anagram - E](https://leetcode.com/problems/valid-anagram/): valid_anagram.py
+
