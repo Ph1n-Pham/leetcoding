@@ -77,3 +77,6 @@ Data Structure:
 
 7. [Longest Consecutive Sequence - M](https://leetcode.com/problems/longest-consecutive-sequence/) longest_consecutive_squence.py
 
+### Intervals:
+
+1. [Summary Ranges - E](https://leetcode.com/problems/summary-ranges/): summary_ranges.py
