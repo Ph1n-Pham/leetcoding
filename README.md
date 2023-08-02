@@ -73,3 +73,5 @@ Data Structure:
 
 5. [Group Anagrams - M](https://leetcode.com/problems/group-anagrams/): group_anagrams.py
 
+6. [Contains Duplicate II - E](https://leetcode.com/problems/contains-duplicate-ii/) contains_duplicate_II.py
+
