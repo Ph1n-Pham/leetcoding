@@ -75,3 +75,5 @@ Data Structure:
 
 6. [Contains Duplicate II - E](https://leetcode.com/problems/contains-duplicate-ii/) contains_duplicate_II.py
 
+7. [Longest Consecutive Sequence - M](https://leetcode.com/problems/longest-consecutive-sequence/) longest_consecutive_squence.py
+
