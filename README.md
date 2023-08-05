@@ -85,4 +85,4 @@ Data Structure:
 
 3. [Insert Intervals - M](https://leetcode.com/problems/insert-interval/): insert_intervals.py
 
-4. [Minimum Number of Arrows to Burst Balloons - M](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/): [min_arrow_burst_balloon.py](https://github.com/Ph1n-Pham/leetcoding/new/main)
+4. [Minimum Number of Arrows to Burst Balloons - M](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/): [min_arrow_burst_balloon.py]([https://github.com/Ph1n-Pham/leetcoding/new/main](https://github.com/Ph1n-Pham/leetcoding/blob/main/min_arrow_burst_balloon.py)https://github.com/Ph1n-Pham/leetcoding/blob/main/min_arrow_burst_balloon.py)
