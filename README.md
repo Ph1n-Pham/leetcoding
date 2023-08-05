@@ -82,3 +82,5 @@ Data Structure:
 1. [Summary Ranges - E](https://leetcode.com/problems/summary-ranges/): summary_ranges.py
 
 2. [Merge Intervals - M](https://leetcode.com/problems/merge-intervals/): merge_intervals.py
+
+3. [Insert Intervals - M](https://leetcode.com/problems/insert-interval/): insert_intervals.py
