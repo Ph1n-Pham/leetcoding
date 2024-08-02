@@ -73,9 +73,11 @@ Data Structure:
 
 5. [Group Anagrams - M](https://leetcode.com/problems/group-anagrams/): group_anagrams.py
 
-6. [Contains Duplicate II - E](https://leetcode.com/problems/contains-duplicate-ii/) contains_duplicate_II.py
+6. [Contains Duplicate II - E](https://leetcode.com/problems/contains-duplicate-ii/): contains_duplicate_II.py
 
-7. [Longest Consecutive Sequence - M](https://leetcode.com/problems/longest-consecutive-sequence/) longest_consecutive_squence.py
+7. [Longest Consecutive Sequence - M](https://leetcode.com/problems/longest-consecutive-sequence/): longest_consecutive_squence.py
+
+8. [Two Sum - E](https://leetcode.com/problems/two-sum/?envType=study-plan-v2&envId=top-interview-150): twosum.py 
 
 ### Intervals:
 
