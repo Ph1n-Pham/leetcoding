@@ -47,6 +47,7 @@ Data Structure:
 17. [H-Index - M](https://leetcode.com/problems/h-index/?envType=study-plan-v2&envId=top-interview-150) hindex.py
     
 18. [Longest Common Prefix - E](https://leetcode.com/problems/longest-common-prefix/?envType=study-plan-v2&envId=top-interview-150) longestCommonPrefix.py
+19. [Insert Delete GetRandom (O1) - M](https://leetcode.com/problems/insert-delete-getrandom-o1/?envType=study-plan-v2&envId=top-interview-150) insertDeleteRandomO1.py
 
 
 ### Two Pointers:
