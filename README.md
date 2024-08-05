@@ -104,4 +104,9 @@ Data Structure:
 
 ### Linked List:
 
-1. [Linked List Cycle - E](https://leetcode.com/problems/linked-list-cycle/description/?envType=study-plan-v2&envId=top-interview-150): linkedListCycle.py 
+1. [Linked List Cycle - E](https://leetcode.com/problems/linked-list-cycle/description/?envType=study-plan-v2&envId=top-interview-150): linkedListCycle.py
+
+### Bit Manipulation:
+
+1. [Add Binary - E](https://leetcode.com/problems/add-binary/?envType=study-plan-v2&envId=top-interview-150) addBinary.py
+2. [Single Number - E](https://leetcode.com/problems/single-number/description/?envType=study-plan-v2&envId=top-interview-150) singleNumber.py
