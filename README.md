@@ -105,6 +105,7 @@ Data Structure:
 ### Linked List:
 
 1. [Linked List Cycle - E](https://leetcode.com/problems/linked-list-cycle/description/?envType=study-plan-v2&envId=top-interview-150): linkedListCycle.py
+2. [Merge Two Sorted Lists - E](https://leetcode.com/problems/merge-two-sorted-lists/description/?envType=study-plan-v2&envId=top-interview-150) mergeTwoSortedLists.py
 
 ### Bit Manipulation:
 
