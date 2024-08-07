@@ -112,3 +112,7 @@ Data Structure:
 
 1. [Add Binary - E](https://leetcode.com/problems/add-binary/?envType=study-plan-v2&envId=top-interview-150) addBinary.py
 2. [Single Number - E](https://leetcode.com/problems/single-number/description/?envType=study-plan-v2&envId=top-interview-150) singleNumber.py
+
+### Math:
+
+1. [Sqrt(x) - E](https://leetcode.com/problems/sqrtx/?envType=study-plan-v2&envId=top-interview-150) sqrtx.ppy
