@@ -115,5 +115,7 @@ Data Structure:
 
 ### Math:
 
-1. [Sqrt(x) - E](https://leetcode.com/problems/sqrtx/?envType=study-plan-v2&envId=top-interview-150) sqrtx.ppy
-2. [Pow(x, n) - M](https://leetcode.com/problems/powx-n/description/?envType=study-plan-v2&envId=top-interview-150) powxn.py
+1. [Palindrome Number - E](https://leetcode.com/problems/palindrome-number/?envType=study-plan-v2&envId=top-interview-150) palindromeNumber.py
+2. [Plus one - E](https://leetcode.com/problems/plus-one/description/?envType=study-plan-v2&envId=top-interview-150) plusOne.py
+3. [Sqrt(x) - E](https://leetcode.com/problems/sqrtx/?envType=study-plan-v2&envId=top-interview-150) sqrtx.ppy
+4. [Pow(x, n) - M](https://leetcode.com/problems/powx-n/description/?envType=study-plan-v2&envId=top-interview-150) powxn.py
