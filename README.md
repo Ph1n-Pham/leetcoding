@@ -57,6 +57,7 @@ Data Structure:
 1. [Valid Palindrome - E](https://leetcode.com/problems/valid-palindrome/?envType=study-plan-v2&envId=top-interview-150): valid_palindrome.py
 
 2. [Is Subsequence - E](https://leetcode.com/problems/is-subsequence/?envType=study-plan-v2&envId=top-interview-150): is_subsequence.py
+3. [Two Sum II - Input Array is Sorted - M](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/?envType=study-plan-v2&envId=top-interview-150) twoSumIISorted.py 
 
 ### Sliding window:
 
