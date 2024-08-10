@@ -111,6 +111,11 @@ Data Structure:
 2. [Merge Two Sorted Lists - E](https://leetcode.com/problems/merge-two-sorted-lists/description/?envType=study-plan-v2&envId=top-interview-150) mergeTwoSortedLists.py
 3. [Add Two Numbers - M](https://leetcode.com/problems/add-two-numbers/description/?envType=study-plan-v2&envId=top-interview-150) addTwoNumbers.py 
 
+### Binary Tree General:
+
+1. [Max Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/?envType=study-plan-v2&envId=top-interview-150) maxDepthOfBinaryTree.py
+2. [Same Tree - E](https://leetcode.com/problems/same-tree/?envType=study-plan-v2&envId=top-interview-150) sameTree.py
+
 ### Bit Manipulation:
 
 1. [Add Binary - E](https://leetcode.com/problems/add-binary/?envType=study-plan-v2&envId=top-interview-150) addBinary.py
