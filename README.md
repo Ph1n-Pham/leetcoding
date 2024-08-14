@@ -117,6 +117,8 @@ Data Structure:
 2. [Same Tree - E](https://leetcode.com/problems/same-tree/?envType=study-plan-v2&envId=top-interview-150) sameTree.py
 3. [Invert Binary Tree - E](https://leetcode.com/problems/invert-binary-tree/description/?envType=study-plan-v2&envId=top-interview-150) invertBinaryTree.py
 4. [Symmetric Tree - E](https://leetcode.com/problems/symmetric-tree/description/?envType=study-plan-v2&envId=top-interview-150) symmetricTree.py
+5. [Path Sum - E](https://leetcode.com/problems/path-sum/?envType=study-plan-v2&envId=top-interview-150) pathSum.py
+6. [Sum Root to Leaf Numbers - M](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/?envType=study-plan-v2&envId=top-interview-150) sumRootToLeaf.py
 
 ### Bit Manipulation:
 
