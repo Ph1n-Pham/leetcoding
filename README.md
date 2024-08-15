@@ -69,8 +69,9 @@ Data Structure:
 
 1. [Valid Sudoku - M](https://leetcode.com/problems/valid-sudoku/): valid_sudoku.py ([my solution](https://leetcode.com/problems/valid-sudoku/solutions/3839277/python3-solution-beats-98-runtime-and-80-space/) beats 98% runtime and 80% space)
 2. [Spriral Matrix - M](https://leetcode.com/problems/spiral-matrix/?envType=study-plan-v2&envId=top-interview-150) spiralMatrix.py
+3. [Rotate Image - M](https://leetcode.com/problems/rotate-image/?envType=study-plan-v2&envId=top-interview-150) rotateImage.py
 
-3. [Game of Life - M](https://leetcode.com/problems/game-of-life/): game_of_life.py
+4. [Game of Life - M](https://leetcode.com/problems/game-of-life/): game_of_life.py
 
 ### Hashmap:
 
