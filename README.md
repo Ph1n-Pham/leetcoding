@@ -138,3 +138,4 @@ Data Structure:
 ### 1 DP:
 
 1. [Climbing Stairs - E](https://leetcode.com/problems/climbing-stairs/description/?envType=study-plan-v2&envId=top-interview-150) climbingStairs.py
+2. [House Robber - M](https://leetcode.com/problems/house-robber/?envType=study-plan-v2&envId=top-interview-150) houseRobber.py
