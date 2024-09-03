@@ -141,3 +141,4 @@ Data Structure:
 2. [House Robber - M](https://leetcode.com/problems/house-robber/?envType=study-plan-v2&envId=top-interview-150) houseRobber.py
 3. [Word Break - M](https://leetcode.com/problems/word-break/?envType=study-plan-v2&envId=top-interview-150) wordBreak.py
 4. [Coin Change - M](https://leetcode.com/problems/coin-change/submissions/1377877565/?envType=study-plan-v2&envId=top-interview-150) coinChange.py
+5. [Longest Increasing Subsequence - M](https://leetcode.com/problems/longest-increasing-subsequence/description/?envType=study-plan-v2&envId=top-interview-150) longestIncreasingSubsequence.py
