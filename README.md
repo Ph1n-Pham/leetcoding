@@ -140,4 +140,4 @@ Data Structure:
 1. [Climbing Stairs - E](https://leetcode.com/problems/climbing-stairs/description/?envType=study-plan-v2&envId=top-interview-150) climbingStairs.py
 2. [House Robber - M](https://leetcode.com/problems/house-robber/?envType=study-plan-v2&envId=top-interview-150) houseRobber.py
 3. [Word Break - M](https://leetcode.com/problems/word-break/?envType=study-plan-v2&envId=top-interview-150) wordBreak.py
-4. [Coin Break - M](https://leetcode.com/problems/coin-change/submissions/1377877565/?envType=study-plan-v2&envId=top-interview-150) coinBreak.py
+4. [Coin Change - M](https://leetcode.com/problems/coin-change/submissions/1377877565/?envType=study-plan-v2&envId=top-interview-150) coinChange.py
