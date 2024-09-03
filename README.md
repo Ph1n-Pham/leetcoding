@@ -134,3 +134,7 @@ Data Structure:
 3. [Factorial Trailing Zeros - M](https://leetcode.com/problems/factorial-trailing-zeroes/description/?envType=study-plan-v2&envId=top-interview-150) factorialTrailingZeros.py
 4. [Sqrt(x) - E](https://leetcode.com/problems/sqrtx/?envType=study-plan-v2&envId=top-interview-150) sqrtx.ppy
 5. [Pow(x, n) - M](https://leetcode.com/problems/powx-n/description/?envType=study-plan-v2&envId=top-interview-150) powxn.py
+
+### 1 DP:
+
+1. [Climbing Stairs - E](https://leetcode.com/problems/climbing-stairs/description/?envType=study-plan-v2&envId=top-interview-150) climbingStairs.py
