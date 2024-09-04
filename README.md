@@ -51,6 +51,7 @@ Data Structure:
 20. [Product of Array Except Self - M](https://leetcode.com/problems/product-of-array-except-self/description/?envType=study-plan-v2&envId=top-interview-150) productOfArrayExceptItself.py
 21. [Gas Station - M](https://leetcode.com/problems/gas-station/?envType=study-plan-v2&envId=top-interview-150) gasStation.py
 22. [Top K Frequent Elements - M](https://leetcode.com/problems/top-k-frequent-elements/description/) topkFrequentElements.py
+23. [String Encode and Decode - M](https://neetcode.io/problems/string-encode-and-decode) stringEncodeAndDecode.py
 
 
 ### Two Pointers:
