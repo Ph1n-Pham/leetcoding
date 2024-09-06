@@ -62,6 +62,7 @@ Data Structure:
 3. [Two Sum II - Input Array is Sorted - M](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/?envType=study-plan-v2&envId=top-interview-150) twoSumIISorted.py
 4. [Three Sum - M](https://leetcode.com/problems/3sum/) threeSum.py
 5. [Container With Most Water - M](https://leetcode.com/problems/container-with-most-water/) containerWithMostWater.py
+6. [Trapping Rain Water - H](https://leetcode.com/problems/trapping-rain-water/) trappingRainWater.py
 
 ### Sliding window:
 
