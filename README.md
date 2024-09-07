@@ -66,6 +66,7 @@ Data Structure:
 
 ### Stack:
 1. [Min Stack - M](https://leetcode.com/problems/min-stack/) minStack.py
+2. [Evaluate Reverse Polish Notation - M](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) evaluateReversePolishNotation.py 
 
 ### Sliding window:
 
