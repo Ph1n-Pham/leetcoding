@@ -64,6 +64,9 @@ Data Structure:
 5. [Container With Most Water - M](https://leetcode.com/problems/container-with-most-water/) containerWithMostWater.py
 6. [Trapping Rain Water - H](https://leetcode.com/problems/trapping-rain-water/) trappingRainWater.py
 
+### Stack:
+1. [Min Stack - M](https://leetcode.com/problems/min-stack/) minStack.py
+
 ### Sliding window:
 
 1. [Minimum Size Subarray Sum - M](https://leetcode.com/problems/minimum-size-subarray-sum/): min_size_subarray_sum.py
