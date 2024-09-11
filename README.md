@@ -70,6 +70,7 @@ Data Structure:
 3. [Generate Parentheses - M](https://leetcode.com/problems/generate-parentheses/description/) generateParentheses.py
 4. [Daily Temperatures - M](https://leetcode.com/problems/daily-temperatures/) dailyTemperatures.py
 5. [Car Fleet - M](https://leetcode.com/problems/car-fleet/) carFleet.py
+6. [Largest Rectangle In Histogram - H](https://neetcode.io/problems/largest-rectangle-in-histogram) largestRectangleInHistogram.py
 
 ### Sliding window:
 
